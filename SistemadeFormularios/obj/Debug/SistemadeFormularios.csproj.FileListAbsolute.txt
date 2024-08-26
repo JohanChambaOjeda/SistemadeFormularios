@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\bin\Debug\SistemadeFormularios.exe.config
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\bin\Debug\SistemadeFormularios.exe
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\bin\Debug\SistemadeFormularios.pdb
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.EmployeeForm.resources
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.Form1.resources
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.JobForm.resources
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.exe
+C:\Users\Usuario\source\repos\SistemadeFormularios\SistemadeFormularios\obj\Debug\SistemadeFormularios.pdb
